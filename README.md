@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejuandevelopr&label=Profile%20views&color=0e75b6&style=flat" alt="rejuandevelopr" /> </p>
 
-- 🔭 I’m currently working on [Mentorak](https://github.com/rejuandevelopr/mentorak)
+-  I’m currently working on [Mentorak](https://github.com/rejuandevelopr/mentorak)
 
-- 🌱 I’m currently learning **Typescript, Flutter**
+- I’m currently learning **Typescript, Flutter**
 
-- 👯 I’m looking to collaborate on **Web project**
+- I’m looking to collaborate on **Web project**
 
-- 👨‍💻 All of my projects are available at [https://rejuandeveloper.com/works.html](https://rejuandeveloper.com/works.html)
+- All of my projects are available at [https://rejuandeveloper.com/works.html](https://rejuandeveloper.com/works.html)
 
-- 💬 Ask me about **Javascript, React and CSS**
+- Ask me about **Javascript, React and CSS**
 
-- 📫 How to reach me **smrejuanuli@gmail.com**
+- How to reach me **smrejuanuli@gmail.com**
 
-- 📄 Know about my experiences [https://www.fiverr.com/rejuan_developr](https://www.fiverr.com/rejuan_developr)
+- Know about my experiences [https://www.fiverr.com/rejuan_developr](https://www.fiverr.com/rejuan_developr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
