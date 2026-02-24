@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rejuandevelopr&label=Profile%20views&color=0e75b6&style=flat" alt="rejuandevelopr" /> </p>
 
--  I’m currently working on [Mentorak](https://github.com/rejuandevelopr/mentorak)
 
 - I’m currently learning **Typescript, Flutter**
-
-- I’m looking to collaborate on **Web project**
 
 - All of my projects are available at [https://rejuandeveloper.com/works.html](https://rejuandeveloper.com/works.html)
 
